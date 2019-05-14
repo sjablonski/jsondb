@@ -1,14 +1,45 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "subscriber": {
+        "name": "Jan",
+        "lastname": "Kowalski"
+    },
+    "bills": [{
+        "label": "Saldo",
+        "description": "Należność do uregulowania",
+        "amount": "50.00 zł"
+    }, {
+        "label": "Kwiecień 2019",
+        "description": "Wartość ostatniego rachunku",
+        "amount": "50.00 zł"
+    }],
+    "services:": [{
+        "icon": "wifi",
+        "label": "Internet",
+        "active": true
+    }, {
+        "icon": "tv",
+        "label": "Telewizja",
+        "active": false
+    }, {
+        "icon": "mobile-alt",
+        "label": "Telefon",
+        "active": false
+    }],
+    "lastMessage": [{
+        "date": "01-01-2019",
+        "subject": "Subject message",
+        "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt purus sed hendrerit aliquam. Donec nec elit ut diam pretium cursus. Morbi sodales in felis tempus pellentesque. Fusce maximus euismod neque, in lacinia libero viverra nec. Integer porta velit vitae aliquet pulvinar. Donec dignissim sagittis maximus. Quisque consequat mauris id lorem iaculis, sit amet sodales enim posuere. Maecenas ultrices porttitor nibh. Mauris nec erat quis ipsum interdum vehicula nec ac libero. Quisque a erat purus. Nulla tempor urna at ex fermentum, at iaculis velit bibendum. Duis rhoncus rhoncus magna non consectetur. In fringilla diam id neque iaculis cursus nec id mi. Praesent sed venenatis neque. Nunc non consectetur justo, et viverra libero."
+    }, {
+        "date": "01-01-2019",
+        "subject": "Subject message",
+        "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt purus sed hendrerit aliquam. Donec nec elit ut diam pretium cursus. Morbi sodales in felis tempus pellentesque. Fusce maximus euismod neque, in lacinia libero viverra nec. Integer porta velit vitae aliquet pulvinar. Donec dignissim sagittis maximus. Quisque consequat mauris id lorem iaculis, sit amet sodales enim posuere. Maecenas ultrices porttitor nibh. Mauris nec erat quis ipsum interdum vehicula nec ac libero. Quisque a erat purus. Nulla tempor urna at ex fermentum, at iaculis velit bibendum. Duis rhoncus rhoncus magna non consectetur. In fringilla diam id neque iaculis cursus nec id mi. Praesent sed venenatis neque. Nunc non consectetur justo, et viverra libero."
+    }, {
+        "date": "01-01-2019",
+        "subject": "Subject message",
+        "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt purus sed hendrerit aliquam. Donec nec elit ut diam pretium cursus. Morbi sodales in felis tempus pellentesque. Fusce maximus euismod neque, in lacinia libero viverra nec. Integer porta velit vitae aliquet pulvinar. Donec dignissim sagittis maximus. Quisque consequat mauris id lorem iaculis, sit amet sodales enim posuere. Maecenas ultrices porttitor nibh. Mauris nec erat quis ipsum interdum vehicula nec ac libero. Quisque a erat purus. Nulla tempor urna at ex fermentum, at iaculis velit bibendum. Duis rhoncus rhoncus magna non consectetur. In fringilla diam id neque iaculis cursus nec id mi. Praesent sed venenatis neque. Nunc non consectetur justo, et viverra libero."
+    }, {
+        "date": "01-01-2019",
+        "subject": "Subject message",
+        "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt purus sed hendrerit aliquam. Donec nec elit ut diam pretium cursus. Morbi sodales in felis tempus pellentesque. Fusce maximus euismod neque, in lacinia libero viverra nec. Integer porta velit vitae aliquet pulvinar. Donec dignissim sagittis maximus. Quisque consequat mauris id lorem iaculis, sit amet sodales enim posuere. Maecenas ultrices porttitor nibh. Mauris nec erat quis ipsum interdum vehicula nec ac libero. Quisque a erat purus. Nulla tempor urna at ex fermentum, at iaculis velit bibendum. Duis rhoncus rhoncus magna non consectetur. In fringilla diam id neque iaculis cursus nec id mi. Praesent sed venenatis neque. Nunc non consectetur justo, et viverra libero."
+    }]
 }
