@@ -3,15 +3,16 @@
         "name": "Jan",
         "lastname": "Kowalski"
     },
-    "bills": [{
+    "bill": {
         "label": "Saldo",
         "description": "Należność do uregulowania",
         "amount": "50.00 zł"
-    }, {
+    },
+    "lastBill": {
         "label": "Kwiecień 2019",
         "description": "Wartość ostatniego rachunku",
         "amount": "50.00 zł"
-    }],
+    },
     "services": [{
         "icon": "wifi",
         "label": "Internet",
