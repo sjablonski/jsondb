@@ -12,7 +12,7 @@
         "description": "Wartość ostatniego rachunku",
         "amount": "50.00 zł"
     }],
-    "services:": [{
+    "services": [{
         "icon": "wifi",
         "label": "Internet",
         "active": true
