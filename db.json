@@ -1,5 +1,5 @@
 {
-    "internetOffer": [
+    "getInternetOffers": [
         {
             "idinternetInformation": 1,
             "internetType": "Radiowy",
@@ -14,6 +14,40 @@
             "upload": 3,
             "download": 10,
             "modem": "DEX10",
+            "subscription": 49,
+            "description": "Internet radiowy dla niewymagających odbiorców"
+        }
+    ],
+    "getPhoneOffers": [
+        {
+            "idphoneInformation": 1,
+            "freeMinutes": 500,
+            "model": "Samsung S8",
+            "amountOfSms": 500,
+            "subscription": 49,
+            "description": "Internet radiowy dla niewymagających odbiorców"
+        },{
+            "idinternetInformation": 2,
+            "freeMinutes": 500,
+            "model": "Samsung S8",
+            "amountOfSms": 500,
+            "subscription": 49,
+            "description": "Internet radiowy dla niewymagających odbiorców"
+        }
+    ],
+    "getTvOffers": [
+        {
+            "idtvInformation": 1,
+            "numberOfChannel": 50,
+            "decoder": "Dekoder H51",
+            "number_of_hd_channel": 50,
+            "subscription": 49,
+            "description": "Internet radiowy dla niewymagających odbiorców"
+        },{
+            "idinternetInformation": 2,
+            "numberOfChannel": 50,
+            "decoder": "Dekoder H51",
+            "number_of_hd_channel": 50,
             "subscription": 49,
             "description": "Internet radiowy dla niewymagających odbiorców"
         }
