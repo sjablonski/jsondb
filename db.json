@@ -1,5 +1,5 @@
 {
-    internetOffer: [
+    "internetOffer": [
         {
             "internetType": "Radiowy",
             "upload": 3,
