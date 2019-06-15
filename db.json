@@ -8,6 +8,14 @@
             "modem": "DEX10",
             "subscription": 49,
             "description": "Internet radiowy dla niewymagających odbiorców"
+        },{
+            "idinternetInformation": 2,
+            "internetType": "Radiowy",
+            "upload": 3,
+            "download": 10,
+            "modem": "DEX10",
+            "subscription": 49,
+            "description": "Internet radiowy dla niewymagających odbiorców"
         }
     ]
 }
