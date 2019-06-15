@@ -27,7 +27,7 @@
             "subscription": 49,
             "description": "Internet radiowy dla niewymagających odbiorców"
         },{
-            "idinternetInformation": 2,
+            "idphoneInformation": 2,
             "freeMinutes": 500,
             "model": "Samsung S8",
             "amountOfSms": 500,
@@ -44,7 +44,7 @@
             "subscription": 49,
             "description": "Internet radiowy dla niewymagających odbiorców"
         },{
-            "idinternetInformation": 2,
+            "idtvInformation": 2,
             "numberOfChannel": 50,
             "decoder": "Dekoder H51",
             "number_of_hd_channel": 50,
