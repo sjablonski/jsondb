@@ -1,6 +1,7 @@
 {
     "internetOffer": [
         {
+            "idinternetInformation": 1,
             "internetType": "Radiowy",
             "upload": 3,
             "download": 10,
