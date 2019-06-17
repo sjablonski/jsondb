@@ -51,5 +51,14 @@
             "subscription": 49,
             "description": "Internet radiowy dla niewymagających odbiorców"
         }
-    ]
+    ],
+    "getBillToPay": [
+    {
+        "koszt": 274,
+        "idFaktury": 2,
+        "dataWystawieniaFaktury": "2019-06-01 00:00:00.0",
+        "status": 0,
+        "opis": "Faktura za czerwiec"
+    }
+]
 }
