@@ -1,64 +1,88 @@
 {
-    "getInternetOffers": [
-        {
-            "idinternetInformation": 1,
-            "internetType": "Radiowy",
-            "upload": 3,
-            "download": 10,
-            "modem": "DEX10",
-            "subscription": 49,
-            "description": "Internet radiowy dla niewymagających odbiorców"
-        },{
-            "idinternetInformation": 2,
-            "internetType": "Radiowy",
-            "upload": 3,
-            "download": 10,
-            "modem": "DEX10",
-            "subscription": 49,
-            "description": "Internet radiowy dla niewymagających odbiorców"
-        }
-    ],
-    "getPhoneOffers": [
-        {
-            "idphoneInformation": 1,
-            "freeMinutes": 500,
-            "model": "Samsung S8",
-            "amountOfSms": 500,
-            "subscription": 49,
-            "description": "Internet radiowy dla niewymagających odbiorców"
-        },{
-            "idphoneInformation": 2,
-            "freeMinutes": 500,
-            "model": "Samsung S8",
-            "amountOfSms": 500,
-            "subscription": 49,
-            "description": "Internet radiowy dla niewymagających odbiorców"
-        }
-    ],
-    "getTvOffers": [
-        {
-            "idtvInformation": 1,
-            "numberOfChannel": 50,
-            "decoder": "Dekoder H51",
-            "number_of_hd_channel": 50,
-            "subscription": 49,
-            "description": "Internet radiowy dla niewymagających odbiorców"
-        },{
-            "idtvInformation": 2,
-            "numberOfChannel": 50,
-            "decoder": "Dekoder H51",
-            "number_of_hd_channel": 50,
-            "subscription": 49,
-            "description": "Internet radiowy dla niewymagających odbiorców"
-        }
-    ],
-    "getBillToPay": [
-    {
-        "koszt": 274,
-        "idFaktury": 2,
-        "dataWystawieniaFaktury": "2019-06-01 00:00:00.0",
-        "status": 0,
-        "opis": "Faktura za czerwiec"
-    }
-]
+   "notes":[
+      {
+         "id":1,
+         "title":"Wake me up when Vue ends",
+         "content":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus, tempora quibusdam natus modi tempore esse adipisci, dolore odit animi",
+         "created":1599561000000
+      },
+      {
+         "id":2,
+         "title":"Como es An Gular?",
+         "content":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus, tempora quibusdam natus modi tempore esse adipisci, dolore odit animi",
+         "created":1599559200000
+      },
+      {
+         "id":3,
+         "title":"Du bist Reactish",
+         "content":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus, tempora quibusdam natus modi tempore esse adipisci, dolore odit animi",
+         "created":1599300000000
+      },
+      {
+         "id":4,
+         "title":"Reactuj się kto moze!",
+         "content":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus, tempora quibusdam natus modi tempore esse adipisci, dolore odit animi",
+         "created":1598954400000
+      }
+   ],
+   "twitters":[
+      {
+         "id":1,
+         "title":"Hello Roman",
+         "content":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus, tempora quibusdam natus modi tempore esse adipisci, dolore odit animi",
+         "created":1599561000000,
+         "twitterName":"hello_roman"
+      },
+      {
+         "id":2,
+         "title":"Redux guy",
+         "content":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus, tempora quibusdam natus modi tempore esse adipisci, dolore odit animi",
+         "created":1599559200000,
+         "twitterName":"dan_abramov"
+      },
+      {
+         "id":3,
+         "title":"React router stuff",
+         "content":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus, tempora quibusdam natus modi tempore esse adipisci, dolore odit animi",
+         "created":1599300000000,
+         "twitterName":"mjackson"
+      },
+      {
+         "id":4,
+         "title":"Super animacje!",
+         "content":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus, tempora quibusdam natus modi tempore esse adipisci, dolore odit animi",
+         "created":1598954400000,
+         "twitterName":"sarah_edo"
+      }
+   ],
+   "articles":[
+      {
+         "id":1,
+         "title":"React on my mind",
+         "content":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus, tempora quibusdam natus modi tempore esse adipisci, dolore odit animi",
+         "articleUrl":"https://youtube.com/helloroman",
+         "created":1599561000000
+      },
+      {
+         "id":2,
+         "title":"Wish you React",
+         "content":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus, tempora quibusdam natus modi tempore esse adipisci, dolore odit animi",
+         "articleUrl":"https://youtube.com/helloroman",
+         "created":1599559200000
+      },
+      {
+         "id":3,
+         "title":"You gave React a bad name",
+         "content":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus, tempora quibusdam natus modi tempore esse adipisci, dolore odit animi",
+         "articleUrl":"https://youtube.com/helloroman",
+         "created":1599300000000
+      },
+      {
+         "id":4,
+         "title":"Is it React you looking for?",
+         "content":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus, tempora quibusdam natus modi tempore esse adipisci, dolore odit animi",
+         "articleUrl":"https://youtube.com/helloroman",
+         "created":1598954400000
+      }
+   ]
 }
