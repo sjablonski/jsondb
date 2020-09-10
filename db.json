@@ -1,138 +1,88 @@
 {
-   "metadata":{
-      "notes":[
-         {
-            "id":1,
-            "title":"Como es An Gular?",
-            "content":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus, tempora quibusdam natus modi tempore esse adipisci, dolore odit animi",
-            "created":1599559200000
-         },
-         {
-            "id":2,
-            "title":"Du bist Reactish",
-            "content":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus, tempora quibusdam natus modi tempore esse adipisci, dolore odit animi",
-            "created":1599300000000
-         },
-         {
-            "id":3,
-            "title":"Reactuj się kto moze!",
-            "content":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus, tempora quibusdam natus modi tempore esse adipisci, dolore odit animi",
-            "created":1598954400000
-         }
-      ],
-      "twitters":[
-         {
-            "id":1,
-            "title":"Redux guy",
-            "content":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus, tempora quibusdam natus modi tempore esse adipisci, dolore odit animi",
-            "created":1599559200000,
-            "twitterName":"dan_abramov"
-         },
-         {
-            "id":2,
-            "title":"React router stuff",
-            "content":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus, tempora quibusdam natus modi tempore esse adipisci, dolore odit animi",
-            "created":1599300000000,
-            "twitterName":"mjackson"
-         },
-         {
-            "id":3,
-            "title":"Super animacje!",
-            "content":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus, tempora quibusdam natus modi tempore esse adipisci, dolore odit animi",
-            "created":1598954400000,
-            "twitterName":"sarah_edo"
-         }
-      ],
-      "articles":[
-         {
-            "id":1,
-            "title":"Wish you React",
-            "content":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus, tempora quibusdam natus modi tempore esse adipisci, dolore odit animi",
-            "articleUrl":"https://youtube.com/helloroman",
-            "created":1599559200000
-         },
-         {
-            "id":2,
-            "title":"You gave React a bad name",
-            "content":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus, tempora quibusdam natus modi tempore esse adipisci, dolore odit animi",
-            "articleUrl":"https://youtube.com/helloroman",
-            "created":1599300000000
-         },
-         {
-            "id":3,
-            "title":"Is it React you looking for?",
-            "content":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus, tempora quibusdam natus modi tempore esse adipisci, dolore odit animi",
-            "articleUrl":"https://youtube.com/helloroman",
-            "created":1598954400000
-         }
-      ]
-   },
-   "items":{
-      "notes":[
-         {
-            "id":1,
-            "title":"Como es An Gular?",
-            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tincidunt convallis lobortis. Quisque condimentum purus eget lectus lacinia molestie. Maecenas ut lectus et neque rutrum sodales at non mauris. Nam vel lorem at justo interdum pellentesque. Fusce et eros ac elit semper placerat ac at ante. Donec pretium fringilla enim et finibus. Nulla facilisi. In maximus nisl enim, in semper sapien aliquam id. Proin in libero orci. Integer sit amet lacus nec nulla sollicitudin interdum. Donec eget rhoncus nam.",
-            "created":1599559200000
-         },
-         {
-            "id":2,
-            "title":"Du bist Reactish",
-            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tincidunt convallis lobortis. Quisque condimentum purus eget lectus lacinia molestie. Maecenas ut lectus et neque rutrum sodales at non mauris. Nam vel lorem at justo interdum pellentesque. Fusce et eros ac elit semper placerat ac at ante. Donec pretium fringilla enim et finibus. Nulla facilisi. In maximus nisl enim, in semper sapien aliquam id. Proin in libero orci. Integer sit amet lacus nec nulla sollicitudin interdum. Donec eget rhoncus nam.",
-            "created":1599300000000
-         },
-         {
-            "id":3,
-            "title":"Reactuj się kto moze!",
-            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tincidunt convallis lobortis. Quisque condimentum purus eget lectus lacinia molestie. Maecenas ut lectus et neque rutrum sodales at non mauris. Nam vel lorem at justo interdum pellentesque. Fusce et eros ac elit semper placerat ac at ante. Donec pretium fringilla enim et finibus. Nulla facilisi. In maximus nisl enim, in semper sapien aliquam id. Proin in libero orci. Integer sit amet lacus nec nulla sollicitudin interdum. Donec eget rhoncus nam.",
-            "created":1598954400000
-         }
-      ],
-      "twitters":[
-         {
-            "id":1,
-            "title":"Redux guy",
-            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tincidunt convallis lobortis. Quisque condimentum purus eget lectus lacinia molestie. Maecenas ut lectus et neque rutrum sodales at non mauris. Nam vel lorem at justo interdum pellentesque. Fusce et eros ac elit semper placerat ac at ante. Donec pretium fringilla enim et finibus. Nulla facilisi. In maximus nisl enim, in semper sapien aliquam id. Proin in libero orci. Integer sit amet lacus nec nulla sollicitudin interdum. Donec eget rhoncus nam.",
-            "created":1599559200000,
-            "twitterName":"dan_abramov"
-         },
-         {
-            "id":2,
-            "title":"React router stuff",
-            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tincidunt convallis lobortis. Quisque condimentum purus eget lectus lacinia molestie. Maecenas ut lectus et neque rutrum sodales at non mauris. Nam vel lorem at justo interdum pellentesque. Fusce et eros ac elit semper placerat ac at ante. Donec pretium fringilla enim et finibus. Nulla facilisi. In maximus nisl enim, in semper sapien aliquam id. Proin in libero orci. Integer sit amet lacus nec nulla sollicitudin interdum. Donec eget rhoncus nam.",
-            "created":1599300000000,
-            "twitterName":"mjackson"
-         },
-         {
-            "id":3,
-            "title":"Super animacje!",
-            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tincidunt convallis lobortis. Quisque condimentum purus eget lectus lacinia molestie. Maecenas ut lectus et neque rutrum sodales at non mauris. Nam vel lorem at justo interdum pellentesque. Fusce et eros ac elit semper placerat ac at ante. Donec pretium fringilla enim et finibus. Nulla facilisi. In maximus nisl enim, in semper sapien aliquam id. Proin in libero orci. Integer sit amet lacus nec nulla sollicitudin interdum. Donec eget rhoncus nam.",
-            "created":1598954400000,
-            "twitterName":"sarah_edo"
-         }
-      ],
-      "articles":[
-         {
-            "id":1,
-            "title":"Wish you React",
-            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tincidunt convallis lobortis. Quisque condimentum purus eget lectus lacinia molestie. Maecenas ut lectus et neque rutrum sodales at non mauris. Nam vel lorem at justo interdum pellentesque. Fusce et eros ac elit semper placerat ac at ante. Donec pretium fringilla enim et finibus. Nulla facilisi. In maximus nisl enim, in semper sapien aliquam id. Proin in libero orci. Integer sit amet lacus nec nulla sollicitudin interdum. Donec eget rhoncus nam.",
-            "articleUrl":"https://youtube.com/helloroman",
-            "created":1599559200000
-         },
-         {
-            "id":2,
-            "title":"You gave React a bad name",
-            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tincidunt convallis lobortis. Quisque condimentum purus eget lectus lacinia molestie. Maecenas ut lectus et neque rutrum sodales at non mauris. Nam vel lorem at justo interdum pellentesque. Fusce et eros ac elit semper placerat ac at ante. Donec pretium fringilla enim et finibus. Nulla facilisi. In maximus nisl enim, in semper sapien aliquam id. Proin in libero orci. Integer sit amet lacus nec nulla sollicitudin interdum. Donec eget rhoncus nam.",
-            "articleUrl":"https://youtube.com/helloroman",
-            "created":1599300000000
-         },
-         {
-            "id":3,
-            "title":"Is it React you looking for?",
-            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tincidunt convallis lobortis. Quisque condimentum purus eget lectus lacinia molestie. Maecenas ut lectus et neque rutrum sodales at non mauris. Nam vel lorem at justo interdum pellentesque. Fusce et eros ac elit semper placerat ac at ante. Donec pretium fringilla enim et finibus. Nulla facilisi. In maximus nisl enim, in semper sapien aliquam id. Proin in libero orci. Integer sit amet lacus nec nulla sollicitudin interdum. Donec eget rhoncus nam.",
-            "articleUrl":"https://youtube.com/helloroman",
-            "created":1598954400000
-         }
-      ]
-   }
+   "notes":[
+      {
+         "id":1,
+         "title":"Wake me up when Vue ends",
+         "content":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus, tempora quibusdam natus modi tempore esse adipisci, dolore odit animi",
+         "created":1599561000000
+      },
+      {
+         "id":2,
+         "title":"Como es An Gular?",
+         "content":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus, tempora quibusdam natus modi tempore esse adipisci, dolore odit animi",
+         "created":1599559200000
+      },
+      {
+         "id":3,
+         "title":"Du bist Reactish",
+         "content":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus, tempora quibusdam natus modi tempore esse adipisci, dolore odit animi",
+         "created":1599300000000
+      },
+      {
+         "id":4,
+         "title":"Reactuj się kto moze!",
+         "content":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus, tempora quibusdam natus modi tempore esse adipisci, dolore odit animi",
+         "created":1598954400000
+      }
+   ],
+   "twitters":[
+      {
+         "id":1,
+         "title":"Hello Roman",
+         "content":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus, tempora quibusdam natus modi tempore esse adipisci, dolore odit animi",
+         "created":1599561000000,
+         "twitterName":"hello_roman"
+      },
+      {
+         "id":2,
+         "title":"Redux guy",
+         "content":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus, tempora quibusdam natus modi tempore esse adipisci, dolore odit animi",
+         "created":1599559200000,
+         "twitterName":"dan_abramov"
+      },
+      {
+         "id":3,
+         "title":"React router stuff",
+         "content":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus, tempora quibusdam natus modi tempore esse adipisci, dolore odit animi",
+         "created":1599300000000,
+         "twitterName":"mjackson"
+      },
+      {
+         "id":4,
+         "title":"Super animacje!",
+         "content":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus, tempora quibusdam natus modi tempore esse adipisci, dolore odit animi",
+         "created":1598954400000,
+         "twitterName":"sarah_edo"
+      }
+   ],
+   "articles":[
+      {
+         "id":1,
+         "title":"React on my mind",
+         "content":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus, tempora quibusdam natus modi tempore esse adipisci, dolore odit animi",
+         "articleUrl":"https://youtube.com/helloroman",
+         "created":1599561000000
+      },
+      {
+         "id":2,
+         "title":"Wish you React",
+         "content":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus, tempora quibusdam natus modi tempore esse adipisci, dolore odit animi",
+         "articleUrl":"https://youtube.com/helloroman",
+         "created":1599559200000
+      },
+      {
+         "id":3,
+         "title":"You gave React a bad name",
+         "content":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus, tempora quibusdam natus modi tempore esse adipisci, dolore odit animi",
+         "articleUrl":"https://youtube.com/helloroman",
+         "created":1599300000000
+      },
+      {
+         "id":4,
+         "title":"Is it React you looking for?",
+         "content":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus, tempora quibusdam natus modi tempore esse adipisci, dolore odit animi",
+         "articleUrl":"https://youtube.com/helloroman",
+         "created":1598954400000
+      }
+   ]
 }
